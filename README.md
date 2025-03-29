@@ -7,7 +7,7 @@
     📖 Design Patterns • Software Architecture
 </pre>
 <br><br>
-<img src="https://static.myfigurecollection.net/upload/pictures/2023/06/05/3615321.gif" height="80" />
+<img src="https://static.myfigurecollection.net/upload/pictures/2023/06/05/3615321.gif" height="200" />
 <br><br><br>
     
 </div>
